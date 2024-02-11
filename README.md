@@ -3,8 +3,8 @@
 #### Technical Skills: Python, Go, C++, JavaScript, SQL
 
 ## Education	        		
-- B.S., Computer Science | NYU Abu Dhabi (_May 2025_)
-- IBDP Diploma | NIS Astana (_May 2021_)
+- B.S. Computer Science | NYU Abu Dhabi (_May 2025_)
+- IB DP Diploma | NIS Astana (_May 2021_)
 
 ## Work Experience
 **Backend Developer Intern @ CTOgram LLC (_June 2023 - August 2023_)**
