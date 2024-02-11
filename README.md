@@ -8,9 +8,10 @@
 
 ## Work Experience
 **Backend Developer Intern @ CTOgram LLC (_June 2023 - August 2023_)**
-- Assisted as a back-end developer at CTOgram, a high-growth startup valued at 13.6M USD and backed by 1.5M USD in investments, where I supported key backend functions to optimize software solutions.
-- Designed and implemented a Golang-based Telegram bot that leveraged PostgreSQL for efficient employee email storage and call progress tracking, contributing to a 5% increase in customer retention at CTOgram.
+- Assisted as a back-end developer at CTOgram, **a high-growth startup valued at 13.6M USD and backed by 1.5M USD in investments**, where I supported key backend functions to optimize software solutions.
+- Designed and implemented a Golang-based Telegram bot that leveraged PostgreSQL for efficient employee email storage and call progress tracking, **contributing to a 5% increase in customer retention** at CTOgram.
 - Connected to third-party SIPUNI IT Telephony API, allowing seamless retrieval and integration of call data into the Telegram bot.
+- Leveraged knowledge in Git; programming in Golang; Back End Web Development; third-party API integration; designing, building, and normalizing a PostgreSQL database; data manipulation and parsing.
 
 ## Projects
 ### Akylzhan - Mental Health Chatbot
