@@ -30,6 +30,7 @@ Developed an iOS mobile application featuring a medical voice assistant. Utilize
 ![Medical Voice Assistant](/assets/img/bike_study.jpeg)
 
 ### Sudoku Solver
+[Github link](https://github.com/ZeinMukhanov/sudoku_solver)
 Developed a sudoku solver app with a user-friendly interface for: inputting Sudoku puzzles and viewing solutions to complex puzzles. Utilized an efficient algorithm that employs a backtracking approach to solve puzzles quickly.
 - **Stack: Python, PyGame**
 
