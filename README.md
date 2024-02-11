@@ -1,4 +1,4 @@
-# Software Engineer & Artist
+# Software Engineer 
 
 #### Technical Skills: Python, Go, C++, JavaScript, SQL
 
