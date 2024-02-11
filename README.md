@@ -3,8 +3,8 @@
 #### Technical Skills: Python, Go, C++, JavaScript, SQL
 
 ## Education	        		
-- B.S., Computer Science | New York University (_August 2021 - May 2025_)
-- IBDP Diploma | Nazarbayev Intellectual School of Astana (_September 2019 - May 2021_)
+- B.S., Computer Science | New York University (_May 2025_)
+- IBDP Diploma | Nazarbayev Intellectual School of Astana (_May 2021_)
 
 ## Work Experience
 **Backend Developer Intern @ CTOgram LLC (_June 2023 - August 2023_)**
@@ -19,7 +19,7 @@
 Developed a responsive web application using React.js, providing users with an intuitive and interactive interface for engaging with the mental health chatbot. Employed Vite.js as the build tool for efficient project setup and development, ensuring fast and modern development practices. Utilized JavaScript as the core programming language for implementing logic and functionality, enabling seamless integration of features and interactions within the chatbot. Integrated the OpenAI API to leverage natural language processing capabilities, enabling the chatbot to offer personalized and empathetic responses tailored to users’ input. 
 - **Stack: React.js, Vite.js, JavaScript, API, HTML/CSS**
 
-![Mental Health Chatbot](https://github.com/ZeinMukhanov/demo/blob/main/Mental_Health_Bot_demo.gif)
+//![Mental Health Chatbot](https://github.com/ZeinMukhanov/demo/blob/main/Mental_Health_Bot_demo.gif)
 
 ### Aileen - Medical Voice Assistant
 [Github link](https://github.com/ZeinMukhanov/aileen)
@@ -27,7 +27,7 @@ Developed a responsive web application using React.js, providing users with an i
 Developed an iOS mobile application featuring a medical voice assistant. Utilized SpeechRecognizerButton and AVFoundation libraries for: voice input recognition and generating voice responses. Integrated OpenAI API client to produce AI-generated messages. Crafted the chat interface using the UIKit library to ensure a user-friendly experience.
 - **Stack: Swift, API**
 
-![Medical Voice Assistant](/assets/img/bike_study.jpeg)
+//![Medical Voice Assistant](/assets/img/bike_study.jpeg)
 
 ### Sudoku Solver
 [Github link](https://github.com/ZeinMukhanov/sudoku_solver)
@@ -35,7 +35,7 @@ Developed an iOS mobile application featuring a medical voice assistant. Utilize
 Developed a sudoku solver app with a user-friendly interface for: inputting Sudoku puzzles and viewing solutions to complex puzzles. Utilized an efficient algorithm that employs a backtracking approach to solve puzzles quickly.
 - **Stack: Python, PyGame**
 
-![Sudoku Solver](https://github.com/ZeinMukhanov/demo/blob/main/sudoku_demo.gif)
+//![Sudoku Solver](https://github.com/ZeinMukhanov/demo/blob/main/sudoku_demo.gif)
 
 ## Leadership & Awards
 - GeeksForGeeks: Hack for Health - Participated as a Front-End Developer (_January 2023_)
